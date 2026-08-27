@@ -21,10 +21,3 @@ Aqui estão alguns dos scripts desenvolvidos nesta etapa inicial:
 
 * **Linguagem:** Python 3.x
 * **Conceitos:** Entrada e saída de dados (`input` / `print`), operadores aritméticos, estruturas condicionais e variáveis.
-
-## 📌 Como Executar os Scripts
-
-1. Certifique-se de ter o Python instalado na sua máquina.
-2. Clone o repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/Erik-Devss/python-exercicios-basicos.git)
